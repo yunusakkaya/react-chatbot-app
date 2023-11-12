@@ -13,4 +13,4 @@ This project contains a React-based chatbot application that sends user-entered 
 1. Clone the project files to your computer:
 
 ```bash
-git clone https://github.com/your-username/react-chatbot-app.git
+git clone https://github.com/yunusakkaya/react-chatbot-app.git
